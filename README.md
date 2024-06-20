@@ -30,7 +30,7 @@ I should also mention that i switched sides to data engineering because i love i
 **Orchestration tools :** 
 Airflow,[![My Skills](https://skillicons.dev/icons?i=kafka,gitlab,kubernetes)](https://skillicons.dev)
 
-**Vig Data :**
+**Big Data :**
 Hadoop,Hive, pyspark
 
 **DevOps tools :**
@@ -40,7 +40,7 @@ Docker,jenkins
 MySQL, MongoDB,Amazon redshift
 
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=GUIGUI-Salma&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUIGUI-Salma&hide=TeX&layout=compact)
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=GuiguiSalma&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiguiSalma&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GUIGUI-Salma.GUIGUI-Salma)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GuiguiSalma.GuiguiSalma)
