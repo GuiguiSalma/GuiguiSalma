@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Salma](www.linkedin.com/in/salma-guigui-1a16a0244)! (press to visit my linkden)😁
+### Hi there 👋, I am [Salma](www.linkedin.com/in/salma-guigui-1a16a0244)! (press to visit my linkedin)😁
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
