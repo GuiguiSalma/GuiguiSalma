@@ -25,7 +25,7 @@ I should also mention that i switched sides to data engineering because i love i
 - ⚡ Fun fact: i yap by the day and write poems by the nights.
 
 **Languages :** 
-[![My Skills](https://skillicons.dev/icons?i=py,scala,sql,r,c,bash,java,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,scala,SQL,r,c,bash,java,html,css)](https://skillicons.dev)
 
 **Orchestration tools :** 
 Airflow,[![My Skills](https://skillicons.dev/icons?i=kafka,gitlab,kubernetes)](https://skillicons.dev)
